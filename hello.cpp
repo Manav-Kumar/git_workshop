@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main()
-{cout<<"hello World";
+{cout<<"hello World hi";
 return 0;
 }
